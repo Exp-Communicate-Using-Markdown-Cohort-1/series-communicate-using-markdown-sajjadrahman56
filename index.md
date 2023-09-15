@@ -1,7 +1,8 @@
 ## This h2 header 
 # This is h1 header 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<img src="https://octodex.github.com/images/yaktocat.png" alt="Image of Yaktocat" height="200" width="200">
+
 
 ```
 $ git init
