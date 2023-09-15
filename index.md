@@ -12,3 +12,7 @@ $ git add .
 
 $ git commit -m'commit message what about it"
 ```
+- [ ] Make a todo list
+- [ ] complete lesson
+- [ ] Introduce myself to the world
+- [ ] Deadline remember
